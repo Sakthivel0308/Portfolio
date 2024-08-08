@@ -1,26 +1,98 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Food Ordering Websites - MERN Stack",
+    "imageSrc": "projects/food_order.jpg",
+    "description": "This is Project Build using MERN Stack. It Includes Order Food, Choose Menu, Login/Sign up and Admin Panel to maintain Food items. Then all the Food items are Stored in Database(MongoDb).",
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sakthivel0308/MERN-Stack/tree/main/FoodDelivery"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Book Store - MERN Stack",
+    "imageSrc": "projects/book_store.png",
+    "description": "It is build using MERN stack. Basically it performs Add Book, Delete Book, Edit Book and Get Book details. It fetches all the information from the server The Book Items are stored in MongoDB Database.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Tailwind css"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sakthivel0308/MERN-Stack/tree/main/BookStore"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Crypto Currency Websites - React",
+    "imageSrc": "projects/crypto_app.jpg",
+    "description": "This is a project, it Fetches data from the API to display the Top 10 Crypto Currency(Bitcoins). The It display the Details of it and Includes the Graph of the Crypto Currency based on it Profit the past Months.",
+    "skills": ["React", "API Call"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sakthivel0308/React/tree/main/Crypto-app"
+  },
+  {
+    "title": "To Do List - React",
+    "imageSrc": "projects/to_do_list.png",
+    "description": "This Project is useful to store the list of action that we have to Do. This for remembering our list work",
+    "skills": ["React", "Express", "Node", "MongoDB", "Tailwind css"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/React/tree/main/ToDoList"
+  },
+  {
+    "title": "Weather Report - React",
+    "imageSrc": "projects/weather.png",
+    "description": "In this project, It fetches the weather report from the API and Present it in a user Appealing Interface.It has a search bar You can search for your City and It will Display the weather report on that Particular City.",
+    "skills": ["React", "API Call"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/React/tree/main/Weather"
+  },{
+    "title": "Drag and Drop Notes - React",
+    "imageSrc": "projects/dd_notes.png",
+    "description": "It is just a note Taking Application on that you can drag your notes wherever you like on the screen. You can drop them on the screen it will be take the position where you drop it.",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/React/tree/main/Drag-and-Drop-notes"
+  },{
+    "title": "BMI Calculator - React",
+    "imageSrc": "projects/bmi_calculator.png",
+    "description": "This project is for calculating the Body Mass Index of the Human Based on the Weight and Height of the the Person Which we have to give as an Input.",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/React/tree/main/BMI-Calculator"
+  },{
+    "title": "Currency Convertor - React",
+    "imageSrc": "projects/currency_convertor.png",
+    "description": "This Project is to Convert the Currency of different countries to the exact Value to the another country currency. For example, 1 USD = 84 INR (approximately).",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/React/tree/main/Currency"
+  },{
+    "title": "Turtle Race (Game) - Python",
+    "imageSrc": "projects/turtle_game.png",
+    "description": "This Project is like a game. The Turtle are arranged in a order then the game is begin and the Winner is decided by who finishes first.",
+    "skills": ["Python", "Turtle Module"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/Python/tree/main/Turtle_project"
+  },{
+    "title": "Password Manager - Python",
+    "imageSrc": "projects/password_manager.png",
+    "description": "This Project is to store Your Password in a text file. The password will be encrypted and then stored on the text file, if you want the password it will decrypt it and display the password.",
+    "skills": ["Python","Cryptography Module"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/Python/tree/main/passwore_manager"
+  },{
+    "title": "Slot Machine (Game) - Python",
+    "imageSrc": "projects/slot_machine.png",
+    "description": "It is like a mini slot machine. In this you have to bet on the lines of the slot machine. If the Lines matches the all the slots in the slot machine, You won and you bet is increased based on the symbols in the slot. Otherwise, you lose the bet.",
+    "skills": ["Python", "Random Module"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/Python/tree/main/slot_machine"
+  },{
+    "title": "Typing Test - Python",
+    "imageSrc": "projects/typing_test.png",
+    "description": "This Project is for text your Typing skills. It displays the correct words in green and Wrong words in red. Also display the WPM.",
+    "skills": ["Python", "curses Module", "Wrapper class"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/Python/tree/main/Typing_test"
+  },{
+    "title": "Travel App - Mobile Application",
+    "imageSrc": "projects/project.png",
+    "description": "This Project is to store Your Password in a text file. The password will be encrypted and then stored on the text file, if you want the password it will decrypt it and display the password.",
+    "skills": ["Java", "Android Studio", "FireBase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakthivel0308/Mobile-app"
   }
 ]

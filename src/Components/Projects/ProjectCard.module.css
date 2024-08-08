@@ -6,29 +6,38 @@
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
-  padding: 18px 24px;
-  max-width: 345px;
+  padding: 18px 20px;
+  max-width: 400px;
+  height: 580px;
 }
 
 .image {
+  width: 340px;
+  height: 240px;
   margin-bottom: 26px;
+  margin-left: 10px;
+  margin-right: 10px;
+  /* border: 1px solid #ccc; */
+  border-radius: 10px;
+  object-fit:fill;
 }
 
 .title {
-  font-size: 25px;
+  font-size: 21px;
   font-weight: 700;
-
+  height: 30px;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 16px;
   font-weight: 400;
+  height: 90px;
 }
 
 .skills {
   width: 100%;
-  margin-top: 14px;
+  margin-top: 20px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -39,23 +48,23 @@
 .skill {
   font-size: 25px;
   font-weight: 400;
-  border-radius: 100px;
+  border-radius: 5px;
   background: var(--color-dark);
   padding: 3px 22px;
 
-   &:hover{
+  &:hover {
     background-color: #576cbc;
     cursor: pointer;
   }
 
-   &:active{
+  &:active {
     transform: scale(1.15);
   }
 }
 
 .links {
   width: 100%;
-  margin-top: 26px;
+  margin-top: auto;
   display: flex;
   justify-content: space-around;
 }
@@ -69,12 +78,12 @@
   background: var(--color-primary);
   padding: 3px 22px;
 
-  &:hover{
+  &:hover {
     background-color: #132a53;
     cursor: pointer;
   }
 
-     &:active{
-    transform: scale(0.90);
+  &:active {
+    transform: scale(0.9);
   }
 }

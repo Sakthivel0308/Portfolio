@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Sakthi</h1>
+        <h1 className={styles.title}>Hi,I'm Sakthivel</h1>
         <p className={styles.description}>
           Innovative Full-Stack Developer eager to create exceptional user
           experiences and efficient backend solutions. Reach out if you'd like
@@ -21,7 +21,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1g_xhCSLI-704l7l621nwKAL30jdRFDWM/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1NHs-DGNvqYpC0aRMRLzVbg0BJsoUYN_X/view?usp=drive_link"
             className={styles.contactBtn}
           >
             Resume
