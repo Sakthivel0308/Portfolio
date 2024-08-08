@@ -68,13 +68,48 @@
     align-items: center;
     font-size: 44px;
   }
+
+  .links a {
+    align-items: center;
+    font-size: 14px;
+    margin-left: 0px;
+  }
+
+  .links img{
+    width: 25px;
+    height: 25px;
+    margin-right: 0px;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+  }
+
+  .text p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .text h2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 44px;
+  }
   .link{
     gap: 10px;
   }
 
   .links a {
     align-items: center;
-    font-size: 14px;
+    font-size: 16px;
     margin-left: 0px;
   }
 
