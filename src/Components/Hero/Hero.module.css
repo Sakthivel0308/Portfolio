@@ -129,4 +129,37 @@
   .content {
     align-items: center;
   }
+
+  .resume {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .resume a, .contactBtn {
+    font-size: 24px; /* Decrease the font size */
+    padding: 12px 20px; /* Adjust the padding */
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .content {
+    align-items: center;
+  }
+
+  .resume {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .resume a, .contactBtn {
+    font-size: 18px; /* Decrease the font size */
+    padding: 8px 15px; /* Adjust the padding */
+  }
+  .description{
+    font-size: 22px;
+  }
 }
