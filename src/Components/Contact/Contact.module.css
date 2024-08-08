@@ -68,15 +68,19 @@
     align-items: center;
     font-size: 44px;
   }
+  .link{
+    gap: 10px;
+  }
 
   .links a {
     align-items: center;
-    font-size: 16px;
+    font-size: 14px;
+    margin-left: 0px;
   }
 
   .links img{
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
     margin-right: 0px;
     margin-top: 7px;
   }
