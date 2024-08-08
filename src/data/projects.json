@@ -89,7 +89,7 @@
     "source": "https://github.com/Sakthivel0308/Python/tree/main/Typing_test"
   },{
     "title": "Travel App - Mobile Application",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/travel_app.png",
     "description": "This Project is to store Your Password in a text file. The password will be encrypted and then stored on the text file, if you want the password it will decrypt it and display the password.",
     "skills": ["Java", "Android Studio", "FireBase"],
     "demo": "https://www.example.com",
