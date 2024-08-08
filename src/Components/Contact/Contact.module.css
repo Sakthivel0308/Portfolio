@@ -73,4 +73,11 @@
     align-items: center;
     font-size: 18px;
   }
+
+  .links img{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    margin-top: 7px;
+  }
 }
