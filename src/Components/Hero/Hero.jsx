@@ -21,7 +21,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1NHs-DGNvqYpC0aRMRLzVbg0BJsoUYN_X/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1tDr9REZp7Eru-XNxAvCjC7jrbPLpt_Ql/view?usp=drive_link"
             className={styles.contactBtn}
           >
             Resume
